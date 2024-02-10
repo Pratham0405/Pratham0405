@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Artificial Intellegence
 - 🌱 I’m currently mastering Python, MySQL, Tableau, PowerBI, and Deep learning.
-- ⚡ Fun fact: Data is new Fuel 
+- ⚡ Fun fact: Data is new Fuel
+- 📫 You can reach me on my email id yeshwantepratham@gmail.com
 
 <!---
 Pratham0405/Pratham0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
