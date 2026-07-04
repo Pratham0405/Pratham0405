@@ -95,8 +95,5 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pratham0405&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham0405&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
