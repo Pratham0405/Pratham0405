@@ -95,8 +95,7 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;AI+%26+Deep+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 
 
