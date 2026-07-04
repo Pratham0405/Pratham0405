@@ -95,5 +95,5 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratham0405&theme=radical&no-frame=true" />
 </p>
