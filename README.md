@@ -95,10 +95,8 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://contribution-graph-isometric.vercel.app/api?username=Pratham0405"/>
 </p>
 
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+
