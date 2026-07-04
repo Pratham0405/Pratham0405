@@ -95,5 +95,6 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Building+Intelligent+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Cloud+%7C+FastAPI+%7C+Azure;Always+Learning+Something+New" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,azure,gcp,postgres,mongodb,git,github,vscode,tensorflow,pytorch"/>
 </p>
+
