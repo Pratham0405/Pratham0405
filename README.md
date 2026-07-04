@@ -95,7 +95,7 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/Pratham0405?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
+  <img src="https://metrics.lecoq.io/Pratham0405?template=classic&base.header=0&config.timezone=Asia/Kolkata"/>
 </p>
 
 
