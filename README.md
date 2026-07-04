@@ -95,6 +95,6 @@ I'm an AI/ML developer passionate about building intelligent, scalable solutions
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,azure,gcp,postgres,mongodb,git,github,vscode,tensorflow,pytorch"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
